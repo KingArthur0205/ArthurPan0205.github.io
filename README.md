@@ -12,5 +12,5 @@
 >  + CSAPP：[Computer Science:A Programmer's Perspective](https://alive-castanet-707.notion.site/CSAPP-7b1347b8e4794acb956f3c9090edee56)
 
 > CSAPP Lab:
->  + Data Lab:[Data Lab Questions&Answers]()
+>  + Data Lab:[Data Lab Questions&Answers](https://github.com/KingArthur0205/ArthurPan0205.github.io/blob/main/CSAPP%20Lab%20Notes%26Answer/DataLab.c)
 
