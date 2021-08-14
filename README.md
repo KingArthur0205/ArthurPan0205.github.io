@@ -7,5 +7,7 @@
 > + Linux学习：[Linux学习目录](https://alive-castanet-707.notion.site/Linux-6349ca72a55e4b539123d11983d1f5c1)
 
 > 读书笔记区：
+>  + 费曼学习法：[Feynman Learning Technique](https://alive-castanet-707.notion.site/271843c70b3d4ab1becdfac2283df04e)
 >  + C缺陷与陷阱：[C Pitfalls and Traps](https://alive-castanet-707.notion.site/C-6b8f4dc45db144578db9bccc7db4f142)
 >  + CSAPP：[Computer Science:A Programmer's Perspective](https://alive-castanet-707.notion.site/CSAPP-7b1347b8e4794acb956f3c9090edee56)
+
