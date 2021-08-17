@@ -1,7 +1,10 @@
 # ArthurPan的学习网站
 
 *部分资料创建于Notion，由Github访问可能较慢。感谢理解*<br>
-<strong>学习前必看：MIT学习法[How to do well in class?](https://github.com/KingArthur0205/ArthurPan0205.github.io/blob/33fbcc6517611968e0a93581482afa7e6b798052/src/MIT%20%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
+> <strong>学习前必看：
+> + MIT学习法[How to do well in class?](https://github.com/KingArthur0205/ArthurPan0205.github.io/blob/33fbcc6517611968e0a93581482afa7e6b798052/src/MIT%20%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
+> + 如何自学CS[Teach Yourself CS] (https://teachyourselfcs.com/)
+  
 > 学习笔记区
 > + C语言：[The C Programming Language Notes&Code](https://alive-castanet-707.notion.site/C-23243005d1484f5bb86e5c2122aac36c)
 > + 数据结构：[Data Structure and Algorithms Notes&Code](https://alive-castanet-707.notion.site/2e51df464038416c93f58da6e61a30a5)
