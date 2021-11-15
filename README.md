@@ -8,6 +8,7 @@
 > 学习笔记区
 > + C语言【完结】：[The C Programming Language Notes&Code](https://alive-castanet-707.notion.site/C-23243005d1484f5bb86e5c2122aac36c)
 > + Haskell【更新中】:[Haskell Notes](https://alive-castanet-707.notion.site/Inf1a-7ee4bd9befc54d4eb7bce27d54b238ce)
+> + C++【更新中】:[C++ Primer] ()
 > + 数据结构【完结】：[Data Structure and Algorithms Notes&Code](https://alive-castanet-707.notion.site/2e51df464038416c93f58da6e61a30a5)
 > + 算法每日一题【更新中】：[Leetcode](https://alive-castanet-707.notion.site/a2cd19f66d3a4abfa7e33426c2071260)
 > + Linux学习【部分完结】：[Linux学习目录](https://alive-castanet-707.notion.site/Linux-6349ca72a55e4b539123d11983d1f5c1)
