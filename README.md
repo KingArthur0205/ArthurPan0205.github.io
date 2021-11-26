@@ -18,8 +18,8 @@
 >  + C缺陷与陷阱【完结】：[C Pitfalls and Traps](https://alive-castanet-707.notion.site/C-6b8f4dc45db144578db9bccc7db4f142)
 >  + CSAPP【更新中】：[Computer System:A Programmer's Perspective](https://alive-castanet-707.notion.site/CSAPP-7b1347b8e4794acb956f3c9090edee56)
 >  + 汇编语言【完结】：[Assembly Language](https://alive-castanet-707.notion.site/dea8ab85f1ab44428b44348f6b2436d1)
->  + Leetcode刷题攻略：[Leetcode Master](https://github.com/youngyangyang04/leetcode-master)
 
-> CSAPP Lab:
->  + Data Lab【完结】:[Data Lab Questions&Answers](https://github.com/KingArthur0205/ArthurPan0205.github.io/blob/main/CSAPP%20Lab%20Notes%26Answer/DataLab.c)
+> 做题：
+> 我参与的开源Leetcode刷题攻略：[Leetcode Master](https://github.com/youngyangyang04/leetcode-master)
+
  
