@@ -1,5 +1,8 @@
 # ArthurPan的学习网站
 
+## My Reading List
+![reading list](https://user-images.githubusercontent.com/81165851/147770568-ad47a290-43c2-4c58-b18f-455ed8d8155e.jpg)
+
 *部分资料创建于Notion，由Github访问可能较慢。感谢理解*<br>
 > <strong>学习前必看：
 > + MIT学习法【完结】：[How to do well in class?](https://github.com/KingArthur0205/ArthurPan0205.github.io/blob/33fbcc6517611968e0a93581482afa7e6b798052/src/MIT%20%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
@@ -25,4 +28,4 @@
 > 做题：
 > 我参与的开源Leetcode刷题攻略：[Leetcode Master](https://github.com/youngyangyang04/leetcode-master)
 
- 
+
