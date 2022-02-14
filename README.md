@@ -1,6 +1,6 @@
 # ArthurPan's Self-Taught CS Website
 
-My Reading List:
+### My Reading List:
 ![reading list](https://github.com/KingArthur0205/ArthurPan0205.github.io/blob/main/New%20Reading%20List.jpg)
 
 *Part of the materials reside on Notion, it might be slow to access from Github.*<br>
