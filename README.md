@@ -1,7 +1,7 @@
 # ArthurPan's Self-Taught CS Website
 
-## My Reading List
-![reading list](https://user-images.githubusercontent.com/81165851/147770568-ad47a290-43c2-4c58-b18f-455ed8d8155e.jpg)
+My Reading List:
+![reading list](https://github.com/KingArthur0205/ArthurPan0205.github.io/blob/main/New%20Reading%20List.jpg)
 
 *Part of the materials reside on Notion, it might be slow to access from Github.*<br>
 > <strong>Pre-Study：
