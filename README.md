@@ -16,7 +16,7 @@ My Reading List:
 >  + x86-assembly Language【Finished】：[Assembly Language](https://alive-castanet-707.notion.site/dea8ab85f1ab44428b44348f6b2436d1)
 > + Advanced Data Structure and Algorithms【Updating】：[Advanced Data Structure and Algorithm](https://github.com/KingArthur0205/Advanced-Data-Structure)
 > + One Leetcode Per Day【Updating】：[Leetcode](https://alive-castanet-707.notion.site/a2cd19f66d3a4abfa7e33426c2071260)
-> + Linux【Partially Finished】：[Linux学习目录](https://alive-castanet-707.notion.site/Linux-6349ca72a55e4b539123d11983d1f5c1)
+> + Linux【Partially Finished】：[Linux Learning Catalogue](https://alive-castanet-707.notion.site/Linux-6349ca72a55e4b539123d11983d1f5c1)
 > + Operating System【Updating】: [Operating System](https://github.com/KingArthur0205/Operarting-System)
 > + Computer System【Updating】: [Computer System](https://github.com/KingArthur0205/Computer-Architecture.git)
 > + Discrete Math【Updating】: [Discrete Math](https://github.com/KingArthur0205/Discrete-Math)
