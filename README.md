@@ -22,7 +22,7 @@
 > + Discrete Math【Updating】: [Discrete Math](https://github.com/KingArthur0205/Discrete-Math)
 > + Computer Networking【Updating】:[Computer Networking: A Top-Down Approach](https://github.com/KingArthur0205/Computer-Networking)
   
-> Reading Notes：
+> Reading Notes： 
 >  + Feynman Learning Technique【Finished】：[Feynman Learning Technique](https://alive-castanet-707.notion.site/271843c70b3d4ab1becdfac2283df04e)
 >  + C Pitfalls and Traps【Finished】：[C Pitfalls and Traps](https://alive-castanet-707.notion.site/C-6b8f4dc45db144578db9bccc7db4f142)
 >  + CSAPP【Finished】：[Computer System:A Programmer's Perspective](https://alive-castanet-707.notion.site/CSAPP-7b1347b8e4794acb956f3c9090edee56)
